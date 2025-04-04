@@ -1,17 +1,17 @@
-# 📱 Telco Customer Churn Prediction App
+# Telco Customer Churn Prediction App
 
 This is a simple web application built using [Streamlit](https://streamlit.io/) that predicts customer churn based on input features. It uses a trained deep learning model (Keras/TensorFlow) to estimate the likelihood of a customer leaving a telecom service provider.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 [Click here to try the app]([https://your-app-name.streamlit.app](https://customerchurn-2miyr2rfafadndhxo7f7dq.streamlit.app/))  
-*(replace with your actual Streamlit Cloud link)*
+[Click here to try the app](https://customerchurn-2miyr2rfafadndhxo7f7dq.streamlit.app/) 
+
 
 ---
 
-## 📊 Model Overview
+## Model Overview
 
 The model was trained on the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and includes preprocessing steps such as:
 
@@ -21,7 +21,7 @@ The model was trained on the [Telco Customer Churn dataset](https://www.kaggle.c
 
 ---
 
-## 🔧 Features
+## Features
 
 - Input form to collect customer information
 - Real-time churn prediction
@@ -31,7 +31,7 @@ The model was trained on the [Telco Customer Churn dataset](https://www.kaggle.c
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit
@@ -41,7 +41,7 @@ The model was trained on the [Telco Customer Churn dataset](https://www.kaggle.c
 
 ---
 
-## 📝 How to Run Locally
+## How to Run Locally
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
