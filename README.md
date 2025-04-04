@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction App
 
-This is a simple web application built using [Streamlit](https://streamlit.io/) that predicts customer churn based on input features. It uses a trained deep learning model (Keras/TensorFlow) to estimate the likelihood of a customer leaving a telecom service provider.
+This is a simple web application built using [Streamlit](https://streamlit.io/) that predicts customer churn based on input features. It uses a trained neural network model to estimate the likelihood of a customer leaving a telecom service provider.
 
 ---
 
